@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sunilthaper01.github.io/thaper-sitemap/Sitemap.xml
